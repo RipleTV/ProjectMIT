@@ -1,0 +1,27 @@
+body {
+    background: rgb(218, 231, 255);
+    text-align: center
+}
+
+.head {
+    color: rgb(71, 120, 255);
+}
+
+h1 {
+    color: rgb(71, 120, 255);
+}
+
+h3 {
+    color: rgb(68, 75, 169);
+}
+
+h4 {
+    color: rgb(80, 26, 130);
+}
+
+
+.images {
+    width: 8%;
+    float: left;
+    margin: 0 0 0 1%;
+}
